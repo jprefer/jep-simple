@@ -1,0 +1,21 @@
+# Site settings
+title: JEP-Simple
+email: john@jprefer.com
+description: The Jekyll version of the Simple
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com/jprefer
+github_url: https://github.com/jprefer
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com/jprefer
+# linkedin_url: https://www.linkedin.com/in/jprefer
+# pinterest_url:
+# slack_url:
+twitter_url: https://twitter.com/jprefer
+
+# Build settings
+markdown: kramdown

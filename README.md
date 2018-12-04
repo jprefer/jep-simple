@@ -5,13 +5,6 @@ A Jekyll version of the "Simple" theme
 
 
 
-# Added Features
-
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Add your **social profiles** easily in `_config.yml`.
-
-# Configuration
-
 You can use the following custom parameters in `_config.yml`.
 
 ## Social settings
@@ -29,12 +22,6 @@ You can use the following custom parameters in `_config.yml`.
 
 # Credits
 
-Original README from HTML5 UP:
-
-```
-
-
-Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)

@@ -22,10 +22,6 @@ You can use the following custom parameters in `_config.yml`.
 
 # Credits
 
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 

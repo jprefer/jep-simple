@@ -1,7 +1,7 @@
 # Site settings
 title: JEP-Simple
 email: john@jprefer.com
-description: The Jekyll version of the Simple
+description: The Jekyll version of the Simple From The Template
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
